@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.menu{
+    background-color:rgb(43,48,53);
+    display:flex;
+    align-items:center;
+    /* align-content:center; */
+    height:100px;
+   gap:70px;
+   
+}
+#a1{
+  
+    color:#F1FAF2;
+    margin:30px;
+font-size: 50px;
+text-decoration: none;
+    }
+#a2{
+    color:rgba(255, 255, 255, 0.783);
+font-size: 30px;
+text-decoration: none;
+    }
+#a3{
+    color:rgba(255, 255, 255, 0.541);
+font-size: 30px;
+text-decoration: none;
+    }
+#a4{
+    color:rgba(255, 255, 255, 0.683);
+font-size: 30px;
+text-decoration: none;
+    }
+#a5{
+    color:rgba(255, 255, 255, 0.377);
+font-size: 30px;
+text-decoration: none;
+    }

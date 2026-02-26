@@ -1,0 +1,68 @@
+body {
+    position: relative;
+}
+
+.red {
+    height:100px;
+    width:300px;
+    background-color:red;
+    margin-top:20px;
+
+   
+}
+
+.blue {
+    background-color: blue;
+    /* position:relative; */
+}
+
+
+
+
+.yellow {
+    background-color: yellow;
+    height:200px;
+    width:200px;
+    margin-top:20px;
+   left: 300px;
+position: absolute;
+top:150px;
+}
+
+.green {
+    height:200px;
+    width:200px;
+    margin-top:20px;
+   background-color: green;
+left: 300px;
+position: absolute;
+top:-20px;
+}
+.blue{
+    height:100px;
+    width:300px;
+    margin-top:20px;
+   background-color:blue;
+left: 300px;
+position: absolute;
+top:350px;
+}
+.green1{
+    height:200px;
+    width:200px;
+    margin-top:20px;
+   background-color: green;
+   position:absolute;
+   top:300px;
+
+
+}
+.yellow1{
+     height:200px;
+    width:200px;
+    margin-top:20px;
+   background-color:yellow;
+   position:absolute;
+   top:500px;
+
+}

@@ -1,0 +1,36 @@
+body{
+    background-color:red;
+    width:930px;
+}
+
+@media(max-width:1200px){
+    body{
+        background-color: blue;
+    }
+    img{
+        height:500px;
+    }
+    }
+
+
+@media(max-width:800px){
+    body{
+        background-color:purple;
+    }
+    img{
+        height:200px;
+    }
+
+}
+@media(max-width:400px){
+    body{
+        background-color:yellow;
+    }
+    img{
+        height:100px;
+    }
+
+}
+p{
+    float:right;
+}
